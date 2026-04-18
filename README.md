@@ -46,15 +46,20 @@ under a minute.
 
 ## Production Metrics
 
-These numbers were recorded during deployment at Aiolos Cloud
-Solutions.
+Minerva has been in active deployment at Aiolos Cloud Solutions
+since 2025. The numbers below grow with every research job run —
+what you see here is a snapshot, not a ceiling.
 
-| Metric | Value |
+| Metric | Recorded Value |
 |---|---|
-| Total Research Jobs Completed | 168 |
-| Success Rate | 88% |
-| Average Research Job Duration | 48.59 seconds |
-| Total Words Processed | 73,900+ |
+| Research Jobs Completed | 168+ and counting |
+| Success Rate | 88% and improving |
+| Average Research Job Duration | ~48 seconds per job |
+| Total Words Processed | 73,900+ and growing |
+
+*Metrics captured from the live dashboard during the internship
+period. The system continues to run and these figures continue
+to climb.*
 
 ---
 
