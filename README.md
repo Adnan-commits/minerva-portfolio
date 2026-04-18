@@ -5,30 +5,41 @@
 
 ---
 
-## What Is Minerva?
+## The Problem
 
-Minerva is an AI-powered research engine that takes a natural
-language query and returns a structured, citable research report.
-It can gather information from the web, process uploaded documents,
-and synthesize everything into a single coherent output exportable
-in multiple formats.
-
-It was built as a production-grade internal tool during our
-internship at Aiolos Cloud Solutions.
+Knowledge workers lose 30% of their workday searching for and
+synthesising information. Manual research, across tabs, PDFs, and
+copy-paste workflows, is slow, fragmented, and expensive at scale.
 
 ---
 
-## The Problem It Solves
+## What Is Already Out There
 
-Gathering information, reading through multiple sources, and
-producing a structured report is time-consuming work. Existing
-tools solve pieces of this: search engines find pages but do not
-read them, document tools extract text but do not synthesize it,
-and AI assistants can summarize but cannot retrieve on their own.
+LLMs like Claude and ChatGPT can research and synthesise. But they
+function as personal assistants with no guardrails. Anyone can search
+for anything — there is no audit trail, no access control, and no
+accountability over what gets retrieved or used. For individuals,
+that is fine. For teams and organisations, that is a governance
+problem.
 
-Minerva connects all three steps into a single pipeline. A user
-submits a query and receives a complete, structured report in
-under a minute.
+---
+
+## What We Built
+
+Minerva is an AI-powered research engine built on the Model Context
+Protocol (MCP). It takes a query and returns a fully structured,
+synthesis-ready report in seconds.
+
+What makes it different: because Minerva is built on MCP, its
+capabilities are interoperable. Any MCP-compatible AI client can
+connect to it and use its tools out of the box — no custom
+integration required.
+
+Results are exported in three formats, each serving its own purpose:
+
+- **PDF** — a clean, shareable report ready to send to anyone
+- **Markdown** — for developers and teams who live in docs and wikis
+- **JSON** — for systems and pipelines that need structured data to act on
 
 ---
 
@@ -36,7 +47,7 @@ under a minute.
 
 - Searches the web and identifies the most relevant sources
 - Reads and extracts content from web pages and PDF documents
-- Synthesizes collected content into a structured report using AI
+- Synthesises collected content into a structured report using AI
 - Streams the report to the screen in real time as it is generated
 - Exports the report as PDF, Markdown, or JSON
 - Allows follow-up questions on the generated report via
@@ -52,10 +63,10 @@ what you see here is a snapshot, not a ceiling.
 
 | Metric | Recorded Value |
 |---|---|
-| Research Jobs Completed | 168+ and counting |
-| Success Rate | 88% and improving |
-| Average Research Job Duration | ~48 seconds per job |
-| Total Words Processed | 73,900+ and growing |
+| Research Jobs Completed | 200+ and counting |
+| Success Rate | 89%+ and improving |
+| Average Research Job Duration | ~39 seconds per job |
+| Total Words Processed | 106K+ and growing |
 
 *Metrics captured from the live dashboard during the internship
 period. The system continues to run and these figures continue
@@ -63,9 +74,9 @@ to climb.*
 
 ---
 
-## Demo
+## Proof of Work
 
-Coming Soon
+- Internship completion certificate: [docs/Internship Completion Letter MCP Group.pdf](./docs/Internship%20Completion%20Letter%20MCP%20Group.pdf)
 
 ---
 
@@ -95,10 +106,9 @@ Coming Soon
 
 ---
 
-## Proof of Work
+## Demo Video
 
-- Internship completion certificate: [docs/Internship Completion Letter MCP Group.pdf](./docs/Internship%20Completion%20Letter%20MCP%20Group.pdf)
-- Production metrics log: [metrics/production_snapshot.md](./metrics/production_snapshot.md)
+Coming soon.
 
 ---
 
@@ -107,15 +117,14 @@ Coming Soon
 Built by four computer engineering students during internship
 at Aiolos Cloud Solutions.
 
-| Name | LinkedIn |
-|---|---|
-| Adnan Bardgujar | [linkedin.com/in/adnan-bardgujar-b43b7a25b](https://www.linkedin.com/in/adnan-bardgujar-b43b7a25b/) |
-| Saif Madre | [linkedin.com/in/saif-madre-7986872ba](https://www.linkedin.com/in/saif-madre-7986872ba/) |
-| Mohd Salique Khan | [linkedin.com/in/mohdsaliquekhan78622](https://www.linkedin.com/in/mohdsaliquekhan78622/) |
-| Fazal Shaikh | [linkedin.com/in/fazal-shaikh-555404195](https://www.linkedin.com/in/fazal-shaikh-555404195/) |
+| Name | Role | LinkedIn |
+|---|---|---|
+| Adnan Bardgujar | Lead Developer | [linkedin.com/in/adnan-bardgujar-b43b7a25b](https://www.linkedin.com/in/adnan-bardgujar-b43b7a25b/) |
+| Saif Madre | QA and Testing | [linkedin.com/in/saif-madre-7986872ba](https://www.linkedin.com/in/saif-madre-7986872ba/) |
+| Mohd Salique Khan | Research | [linkedin.com/in/mohdsaliquekhan78622](https://www.linkedin.com/in/mohdsaliquekhan78622/) |
+| Fazal Shaikh | Research | [linkedin.com/in/fazal-shaikh-555404195](https://www.linkedin.com/in/fazal-shaikh-555404195/) |
 
-Full team details and individual contributions:
-[docs/team.md](./docs/team.md)
+Full team details: [docs/team.md](./docs/team.md)
 
 ---
 
