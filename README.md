@@ -1,4 +1,5 @@
-# Minerva — AI-Powered Research Engine
+# Minerva 
+AI-Powered Research Engine
 
 > Internship Project at Aiolos Cloud Solutions, Mumbai
 > Team: NextGen Thinker | 2025–2026
