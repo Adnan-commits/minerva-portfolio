@@ -65,7 +65,7 @@ to climb.*
 
 ## Demo
 
-[Watch the full demo video →](./demo/demo_video_link.md)
+Coming Soon
 
 ---
 
