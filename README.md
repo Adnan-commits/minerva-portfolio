@@ -72,11 +72,24 @@ what you see here is a snapshot, not a ceiling.
 period. The system continues to run and these figures continue
 to climb.*
 
+
+## Recognition
+
+🏆 **2nd Place — Pitch Your Idea Competition**
+IEEE Utsav Fest, hosted by the IEEE Cell of
+Anjuman-Islam MHSSCE — M. H. Saboo Siddik College of Engineering
+
+Team NextGen Thinkers pitched Minerva and placed second among
+competing teams. An independent validation of the problem we
+identified and the solution we built.
+
+![Award](./docs/screenshots/win.jpg)
 ---
 
 ## Proof of Work
 
 - Internship completion certificate: [docs/Internship Completion Letter MCP Group.pdf](./docs/Internship%20Completion%20Letter%20MCP%20Group.pdf)
+- 2nd place, Pitch Your Idea — IEEE Utsav Fest
 
 ---
 
