@@ -97,7 +97,7 @@ to climb.*
 
 ## Proof of Work
 
-- Internship completion certificate: [docs/certificate_aiolos.pdf](./docs/certificate_aiolos.pdf)
+- Internship completion certificate: [docs/Internship Completion Letter MCP Group.pdf](./docs/Internship%20Completion%20Letter%20MCP%20Group.pdf)
 - Production metrics log: [metrics/production_snapshot.md](./metrics/production_snapshot.md)
 
 ---
