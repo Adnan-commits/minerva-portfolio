@@ -84,7 +84,7 @@ Team NextGen Thinkers pitched Minerva and placed second among
 competing teams. An independent validation of the problem we
 identified and the solution we built.
 
-![Award](./docs/screenshots/win.jpg)
+![Award](./docs/screenshots/win.jpeg)
 ---
 
 ## Proof of Work
